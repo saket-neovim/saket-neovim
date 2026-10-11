@@ -20,7 +20,7 @@ I’m building hands-on Azure infrastructure and Linux automation labs, with a f
 - Distinguish static validation from observed runtime behavior.
 - Record limitations, unfinished work, and cleanup requirements.
 
-These repositories contain personal experiments and learning exercises. Course and third-party material retains its attribution; the READMEs describe what is implemented and what still needs verification. They do not claim production deployments or certification results.
+These repositories contain personal projects and learning labs; each README documents implementation status, limitations, and attribution.
 
 ## Case study
 
