@@ -6,7 +6,7 @@ I’m building hands-on Azure infrastructure and Linux automation labs, with a f
 
 | Repository | What to explore |
 | --- | --- |
-| [Azure infrastructure with Terraform](https://github.com/saket-neovim/TerraformWithCoreAzure) | Networking, reusable modules, managed identity, Key Vault, and an ongoing VM-hosting exercise. |
+| [Azure infrastructure with Terraform](https://github.com/saket-neovim/TerraformWithCoreAzure) | Networking, reusable modules, managed identity, Key Vault, and VM hosting. |
 | [Ansible administration labs](https://github.com/saket-neovim/Ansible) | Linux administration playbooks, inventory, users, services, templates, and roles. |
 | [Kubernetes administration practice](https://github.com/saket-neovim/CKA-K8s) | Practice manifests for workloads, networking, storage, scheduling, and RBAC. |
 | [Docker lab environments](https://github.com/saket-neovim/DockerBuilds) | Image definitions for Linux, Ansible targets, and local Jenkins exercises. |
